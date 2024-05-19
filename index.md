@@ -14,3 +14,8 @@ var myVar = "Hello, world!";
 ```javascript
 var myVar = "¡Hola mundo!";
 ```
+# lista
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
